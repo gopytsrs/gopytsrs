@@ -43,5 +43,5 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gohcksean&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gopytsrs&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
 </div>
